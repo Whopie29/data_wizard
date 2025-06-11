@@ -121,8 +121,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📬 Contact
 
 **Created by \[Gaurav Malik]**
-📧 [your.email@example.com](mailto:your.email@example.com)
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 [your.email@example.com](gauravmalik81809@gmail.com)
+
 
 ---
 
