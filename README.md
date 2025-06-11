@@ -92,6 +92,7 @@ datawizard/
 │
 ├── app.py                  # Main Streamlit app
 ├── eda.py                  # EDA logic and plots
+|__ report.py               # report generator
 ├── requirements.txt        # Required dependencies
 └── README.md               # Project documentation
 ```
