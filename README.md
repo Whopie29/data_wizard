@@ -91,11 +91,9 @@ streamlit run app.py
 datawizard/
 │
 ├── app.py                  # Main Streamlit app
-├── ml.py                  # ML model building logic
-├── analysis.py            # EDA logic and plots
-├── utils/                 # Utility functions
-├── requirements.txt       # Required dependencies
-└── README.md              # Project documentation
+├── eda.py                  # EDA logic and plots
+├── requirements.txt        # Required dependencies
+└── README.md               # Project documentation
 ```
 
 ---
