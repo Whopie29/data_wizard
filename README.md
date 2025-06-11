@@ -121,7 +121,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📬 Contact
 
 **Created by \[Gaurav Malik]**
-📧 [your.email@example.com](gauravmalik81809@gmail.com)
+📧(gauravmalik81809@gmail.com)
 
 
 ---
